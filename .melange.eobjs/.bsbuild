@@ -1,0 +1,16 @@
+8
+App
+Greet
+Index
+Input
+Route
+Router
+Page_Home
+Page_NotFound
+./src	./src/components	./src/pages	
+1
+2
+Utils
+Page_Home_test
+./tests/support	./tests	
+1
